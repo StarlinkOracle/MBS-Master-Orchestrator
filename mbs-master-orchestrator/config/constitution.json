@@ -1,0 +1,41 @@
+{
+  "constitution_version": "1.0.0",
+  "north_star": "Maximize profit per lead WITHOUT overwhelming capacity; enforce strict seasonality; maintain compliance and financial discipline; FAIL CLOSED if governance/data integrity compromised.",
+  "season_matrix": {
+    "1":  { "season": "HEATING",  "primary_services": ["furnace","boiler","heating","heat pump"], "blocked_services": ["ac","air conditioning","cooling"], "upgrade_bias": false },
+    "2":  { "season": "HEATING",  "primary_services": ["furnace","boiler","heating","heat pump"], "blocked_services": ["ac","air conditioning","cooling"], "upgrade_bias": false },
+    "3":  { "season": "SHOULDER", "primary_services": ["maintenance","tune-up","duct cleaning","thermostat","indoor air quality","heat pump"], "blocked_services": ["emergency furnace","emergency ac"], "upgrade_bias": true },
+    "4":  { "season": "SHOULDER", "primary_services": ["ac","cooling","heat pump","maintenance","tune-up","duct cleaning","thermostat"], "blocked_services": ["emergency furnace","furnace repair"], "upgrade_bias": true, "bias_direction": "cooling" },
+    "5":  { "season": "COOLING",  "primary_services": ["ac","air conditioning","cooling","heat pump"], "blocked_services": ["furnace","boiler","heating"], "upgrade_bias": false },
+    "6":  { "season": "COOLING",  "primary_services": ["ac","air conditioning","cooling","heat pump"], "blocked_services": ["furnace","boiler","heating"], "upgrade_bias": false },
+    "7":  { "season": "COOLING",  "primary_services": ["ac","air conditioning","cooling","heat pump"], "blocked_services": ["furnace","boiler","heating"], "upgrade_bias": false },
+    "8":  { "season": "COOLING",  "primary_services": ["ac","air conditioning","cooling","heat pump"], "blocked_services": ["furnace","boiler","heating"], "upgrade_bias": false },
+    "9":  { "season": "SHOULDER", "primary_services": ["maintenance","tune-up","duct cleaning","thermostat","indoor air quality","heat pump"], "blocked_services": ["emergency furnace","emergency ac"], "upgrade_bias": true },
+    "10": { "season": "HEATING",  "primary_services": ["furnace","boiler","heating","heat pump"], "blocked_services": ["ac","air conditioning","cooling"], "upgrade_bias": true, "bias_direction": "heating" },
+    "11": { "season": "HEATING",  "primary_services": ["furnace","boiler","heating","heat pump"], "blocked_services": ["ac","air conditioning","cooling"], "upgrade_bias": false },
+    "12": { "season": "HEATING",  "primary_services": ["furnace","boiler","heating","heat pump"], "blocked_services": ["ac","air conditioning","cooling"], "upgrade_bias": false }
+  },
+  "budget_enforcement": {
+    "max_weekly_change_pct": 10,
+    "requires_override_artifact": true
+  },
+  "geo_controls": {
+    "core_zip_count": 41,
+    "core_zip_min_weight": 0.80,
+    "new_zip_activation_cap_per_week": 2,
+    "default_weight": 1.0
+  },
+  "capacity_protection": {
+    "weekly_lead_cap_default": 20,
+    "conservative_trigger_pct": 100,
+    "hard_throttle_trigger_pct": 120
+  },
+  "invariants": [
+    "No auto-publishing of any artifact",
+    "No scraping of any external source",
+    "No silent self-modification",
+    "Self-evolution only via proposal → validation → approval → apply",
+    "All side effects gated by constitution gatekeeper",
+    "Fail closed if constitution missing or invalid"
+  ]
+}

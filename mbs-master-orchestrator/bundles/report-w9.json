@@ -1,0 +1,1241 @@
+{
+  "reportId": "report-w9-2026-02-25",
+  "weekNumber": 9,
+  "createdAt": "2026-02-25T01:36:40.685Z",
+  "kpiSnapshot": {
+    "indexedPages": {
+      "current": 15,
+      "target": 50,
+      "deadline": "2026-06-30"
+    },
+    "weeklyGBPPosts": {
+      "current": 0,
+      "target": 2
+    },
+    "monthlyAdCampaigns": {
+      "current": 1,
+      "target": 4
+    },
+    "weeklyBlogPosts": {
+      "current": 0,
+      "target": 1
+    },
+    "reviewVelocity": {
+      "current": 2,
+      "target": 5,
+      "unit": "reviews_per_month"
+    },
+    "monthlyLeads": {
+      "current": 15,
+      "target": 40
+    }
+  },
+  "metricSnapshot": {
+    "date": "2026-02-24",
+    "source": "combined",
+    "indexedPages": 15,
+    "topPages": [
+      {
+        "page": "https://russellcomfort.com/",
+        "impressions": 1842,
+        "clicks": 156,
+        "ctr": 0.085,
+        "position": 4.2
+      },
+      {
+        "page": "https://russellcomfort.com/services/heat-pump-installation",
+        "impressions": 892,
+        "clicks": 67,
+        "ctr": 0.075,
+        "position": 6.1
+      },
+      {
+        "page": "https://russellcomfort.com/services/ac-repair",
+        "impressions": 734,
+        "clicks": 52,
+        "ctr": 0.071,
+        "position": 5.8
+      },
+      {
+        "page": "https://russellcomfort.com/services/furnace-repair",
+        "impressions": 681,
+        "clicks": 48,
+        "ctr": 0.07,
+        "position": 7.2
+      },
+      {
+        "page": "https://russellcomfort.com/services/furnace-installation",
+        "impressions": 523,
+        "clicks": 34,
+        "ctr": 0.065,
+        "position": 8.4
+      },
+      {
+        "page": "https://russellcomfort.com/services/ac-installation",
+        "impressions": 498,
+        "clicks": 31,
+        "ctr": 0.062,
+        "position": 9.1
+      },
+      {
+        "page": "https://russellcomfort.com/service-areas/denver",
+        "impressions": 412,
+        "clicks": 28,
+        "ctr": 0.068,
+        "position": 5.3
+      },
+      {
+        "page": "https://russellcomfort.com/service-areas/wheat-ridge",
+        "impressions": 234,
+        "clicks": 18,
+        "ctr": 0.077,
+        "position": 6.7
+      },
+      {
+        "page": "https://russellcomfort.com/service-areas/arvada",
+        "impressions": 198,
+        "clicks": 14,
+        "ctr": 0.071,
+        "position": 7.8
+      },
+      {
+        "page": "https://russellcomfort.com/service-areas/lakewood",
+        "impressions": 176,
+        "clicks": 12,
+        "ctr": 0.068,
+        "position": 8.2
+      },
+      {
+        "page": "https://russellcomfort.com/service-areas/golden",
+        "impressions": 145,
+        "clicks": 9,
+        "ctr": 0.062,
+        "position": 9.4
+      },
+      {
+        "page": "https://russellcomfort.com/service-areas/thornton",
+        "impressions": 132,
+        "clicks": 8,
+        "ctr": 0.061,
+        "position": 10.1
+      },
+      {
+        "page": "https://russellcomfort.com/blog/heat-pump-vs-furnace",
+        "impressions": 89,
+        "clicks": 6,
+        "ctr": 0.067,
+        "position": 12.3
+      },
+      {
+        "page": "https://russellcomfort.com/about",
+        "impressions": 67,
+        "clicks": 4,
+        "ctr": 0.06,
+        "position": 11.5
+      },
+      {
+        "page": "https://russellcomfort.com/contact",
+        "impressions": 54,
+        "clicks": 3,
+        "ctr": 0.055999999999999994,
+        "position": 14.2
+      }
+    ],
+    "topQueries": [
+      {
+        "query": "heat pump installation denver",
+        "impressions": 1245,
+        "clicks": 89,
+        "ctr": 0.071,
+        "position": 4.8
+      },
+      {
+        "query": "furnace repair denver",
+        "impressions": 987,
+        "clicks": 72,
+        "ctr": 0.073,
+        "position": 5.2
+      },
+      {
+        "query": "ac repair denver",
+        "impressions": 876,
+        "clicks": 61,
+        "ctr": 0.07,
+        "position": 5.5
+      },
+      {
+        "query": "hvac denver",
+        "impressions": 812,
+        "clicks": 54,
+        "ctr": 0.067,
+        "position": 6.3
+      },
+      {
+        "query": "furnace installation denver metro",
+        "impressions": 654,
+        "clicks": 42,
+        "ctr": 0.064,
+        "position": 7.1
+      },
+      {
+        "query": "ac installation wheat ridge",
+        "impressions": 432,
+        "clicks": 28,
+        "ctr": 0.065,
+        "position": 6.8
+      },
+      {
+        "query": "russell comfort solutions",
+        "impressions": 134,
+        "clicks": 28,
+        "ctr": 0.209,
+        "position": 1.2
+      },
+      {
+        "query": "heat pump repair arvada",
+        "impressions": 387,
+        "clicks": 24,
+        "ctr": 0.062,
+        "position": 8.2
+      },
+      {
+        "query": "furnace repair wheat ridge",
+        "impressions": 345,
+        "clicks": 21,
+        "ctr": 0.061,
+        "position": 7.9
+      },
+      {
+        "query": "denver hvac company",
+        "impressions": 312,
+        "clicks": 19,
+        "ctr": 0.061,
+        "position": 9.3
+      },
+      {
+        "query": "ac repair lakewood co",
+        "impressions": 287,
+        "clicks": 17,
+        "ctr": 0.059000000000000004,
+        "position": 8.7
+      },
+      {
+        "query": "boiler repair denver",
+        "impressions": 234,
+        "clicks": 14,
+        "ctr": 0.06,
+        "position": 10.2
+      },
+      {
+        "query": "emergency furnace repair denver",
+        "impressions": 176,
+        "clicks": 13,
+        "ctr": 0.07400000000000001,
+        "position": 6.1
+      },
+      {
+        "query": "radiant floor heating denver",
+        "impressions": 198,
+        "clicks": 11,
+        "ctr": 0.055999999999999994,
+        "position": 11.4
+      },
+      {
+        "query": "heat pump vs furnace colorado",
+        "impressions": 156,
+        "clicks": 9,
+        "ctr": 0.057999999999999996,
+        "position": 12.8
+      },
+      {
+        "query": "hvac company near me wheat ridge",
+        "impressions": 112,
+        "clicks": 8,
+        "ctr": 0.071,
+        "position": 7.4
+      },
+      {
+        "query": "golden co ac repair",
+        "impressions": 98,
+        "clicks": 6,
+        "ctr": 0.061,
+        "position": 9.8
+      },
+      {
+        "query": "thornton furnace installation",
+        "impressions": 87,
+        "clicks": 5,
+        "ctr": 0.057,
+        "position": 10.5
+      }
+    ],
+    "totals": {
+      "impressions": 6677,
+      "clicks": 490,
+      "ctr": 0.0734,
+      "avgPosition": 6.49
+    },
+    "conversions": {
+      "CALL_CLICK": 87,
+      "FORM_SUBMIT": 61,
+      "weightedTotal": 129.7
+    },
+    "topConversionPages": [
+      {
+        "url": "/services/furnace-repair",
+        "calls": 18,
+        "forms": 4,
+        "weightedValue": 20.8
+      },
+      {
+        "url": "/services/ac-repair",
+        "calls": 14,
+        "forms": 3,
+        "weightedValue": 16.1
+      },
+      {
+        "url": "/service-areas/denver",
+        "calls": 11,
+        "forms": 6,
+        "weightedValue": 15.2
+      },
+      {
+        "url": "/services/heat-pump-installation",
+        "calls": 6,
+        "forms": 12,
+        "weightedValue": 14.399999999999999
+      },
+      {
+        "url": "/",
+        "calls": 8,
+        "forms": 5,
+        "weightedValue": 11.5
+      },
+      {
+        "url": "/services/furnace-installation",
+        "calls": 5,
+        "forms": 9,
+        "weightedValue": 11.3
+      },
+      {
+        "url": "/contact",
+        "calls": 7,
+        "forms": 6,
+        "weightedValue": 11.2
+      },
+      {
+        "url": "/services/ac-installation",
+        "calls": 4,
+        "forms": 8,
+        "weightedValue": 9.6
+      },
+      {
+        "url": "/service-areas/wheat-ridge",
+        "calls": 5,
+        "forms": 3,
+        "weightedValue": 7.1
+      },
+      {
+        "url": "/service-areas/arvada",
+        "calls": 4,
+        "forms": 2,
+        "weightedValue": 5.4
+      },
+      {
+        "url": "/service-areas/lakewood",
+        "calls": 3,
+        "forms": 2,
+        "weightedValue": 4.4
+      },
+      {
+        "url": "/service-areas/golden",
+        "calls": 2,
+        "forms": 1,
+        "weightedValue": 2.7
+      }
+    ]
+  },
+  "operatorSummaries": [
+    {
+      "name": "marketing",
+      "packsGenerated": 1,
+      "validationScore": 71,
+      "approvalStatus": "approved",
+      "issues": 28
+    }
+  ],
+  "experiments": [
+    {
+      "id": "exp-seo-7e9bf7d3c4f9-w9",
+      "type": "seo",
+      "name": "Internal Link Density Test",
+      "hypothesis": "Increasing internal links from 5 to 8 per GEO page will improve average position by 0.5+ within 4 weeks",
+      "variants": [
+        {
+          "id": "control",
+          "name": "Current link density",
+          "description": "Keep existing 3-5 internal links per page",
+          "config": {
+            "internalLinks": 5,
+            "pages": [
+              "https://russellcomfort.com/services/furnace-installation",
+              "https://russellcomfort.com/services/ac-installation",
+              "https://russellcomfort.com/service-areas/lakewood",
+              "https://russellcomfort.com/service-areas/golden",
+              "https://russellcomfort.com/service-areas/thornton"
+            ]
+          }
+        },
+        {
+          "id": "variant-a",
+          "name": "High link density",
+          "description": "Increase to 8 internal links with pillar page anchors",
+          "config": {
+            "internalLinks": 8,
+            "addPillarLinks": true,
+            "pages": [
+              "https://russellcomfort.com/services/furnace-installation",
+              "https://russellcomfort.com/services/ac-installation",
+              "https://russellcomfort.com/service-areas/lakewood",
+              "https://russellcomfort.com/service-areas/golden",
+              "https://russellcomfort.com/service-areas/thornton"
+            ]
+          }
+        }
+      ],
+      "successMetric": "avg_position_improvement",
+      "minimumSampleSize": 10,
+      "durationWeeks": 4,
+      "stopRules": [
+        "Stop if any test page drops below position 20 for 7 consecutive days",
+        "Stop if organic clicks decrease by more than 30% week-over-week",
+        "Stop if crawl errors increase on test pages"
+      ],
+      "rollbackPlan": "Revert internal link count to pre-test levels using config_snapshot.json from the pack that preceded the experiment",
+      "status": "proposed",
+      "createdAt": "2026-02-25T01:36:40.684Z",
+      "weekNumber": 9
+    },
+    {
+      "id": "exp-ads-fa871640da05-w9",
+      "type": "ads",
+      "name": "RSA Headline Set Test",
+      "hypothesis": "Using benefit-focused headlines ('Save $X on energy bills') will outperform feature-focused headlines ('High-efficiency heat pump') by 20%+ CTR in 2 weeks",
+      "variants": [
+        {
+          "id": "control",
+          "name": "Feature-focused headlines",
+          "description": "Headlines emphasize product features and technical specs",
+          "config": {
+            "headlines": [
+              "High-Efficiency Heat Pumps",
+              "Professional HVAC Install",
+              "Licensed Denver Technicians"
+            ],
+            "targetQuery": "heat pump installation denver"
+          }
+        },
+        {
+          "id": "variant-a",
+          "name": "Benefit-focused headlines",
+          "description": "Headlines emphasize customer outcomes and savings",
+          "config": {
+            "headlines": [
+              "Cut Energy Bills 30-50%",
+              "Comfort Guaranteed",
+              "Same-Day Estimates Free"
+            ],
+            "targetQuery": "heat pump installation denver"
+          }
+        }
+      ],
+      "successMetric": "ad_ctr_improvement",
+      "minimumSampleSize": 1000,
+      "durationWeeks": 2,
+      "stopRules": [
+        "Stop if cost-per-click exceeds 2x the baseline CPC",
+        "Stop if quality score drops below 5 on any keyword",
+        "Stop if daily spend exceeds budget cap by 20%"
+      ],
+      "rollbackPlan": "Pause variant ad group and reactivate control ad group in Google Ads dashboard",
+      "status": "proposed",
+      "createdAt": "2026-02-25T01:36:40.684Z",
+      "weekNumber": 9
+    },
+    {
+      "id": "exp-conv-call-01cddf919e30-w9",
+      "type": "conversion",
+      "name": "Repair Page CTA Placement Test",
+      "hypothesis": "Moving the phone CTA above the fold on repair pages will increase CALL_CLICK events by 25%+ in 3 weeks",
+      "variants": [
+        {
+          "id": "control",
+          "name": "CTA below hero section",
+          "description": "Current: phone number in header bar and below hero image",
+          "config": {
+            "ctaPosition": "below-hero",
+            "stickyHeader": false,
+            "pages": [
+              "/services/furnace-repair",
+              "/services/ac-repair",
+              "/service-areas/denver"
+            ]
+          }
+        },
+        {
+          "id": "variant-a",
+          "name": "CTA above fold + sticky",
+          "description": "Phone CTA prominently above fold with sticky header CTA on scroll",
+          "config": {
+            "ctaPosition": "above-fold",
+            "stickyHeader": true,
+            "emergencyBadge": true,
+            "pages": [
+              "/services/furnace-repair",
+              "/services/ac-repair",
+              "/service-areas/denver"
+            ]
+          }
+        }
+      ],
+      "successMetric": "call_click_increase",
+      "minimumSampleSize": 200,
+      "durationWeeks": 3,
+      "stopRules": [
+        "Stop if page bounce rate increases by 20%+ on test pages",
+        "Stop if overall site CALL_CLICK events drop by 15%",
+        "Stop if form submissions on repair pages drop by 30%"
+      ],
+      "rollbackPlan": "Revert CTA position to below-hero layout using pre-experiment page template snapshot",
+      "status": "proposed",
+      "createdAt": "2026-02-25T01:36:40.684Z",
+      "weekNumber": 9,
+      "conversionGoal": "CALL_CLICK"
+    },
+    {
+      "id": "exp-conv-form-96851c8e105c-w9",
+      "type": "conversion",
+      "name": "Estimate Form Module Placement Test",
+      "hypothesis": "Embedding a short estimate request form inline on install pages (instead of separate /contact page) will increase FORM_SUBMIT by 35%+ in 3 weeks",
+      "variants": [
+        {
+          "id": "control",
+          "name": "Link to /contact page",
+          "description": "Current: 'Get a Free Estimate' button links to /contact",
+          "config": {
+            "formType": "link-to-contact",
+            "pages": [
+              "/services/heat-pump-installation",
+              "/services/furnace-installation",
+              "/services/ac-installation"
+            ]
+          }
+        },
+        {
+          "id": "variant-a",
+          "name": "Inline 3-field form",
+          "description": "Inline form (name, phone, service) embedded after service description",
+          "config": {
+            "formType": "inline-3-field",
+            "fields": [
+              "name",
+              "phone",
+              "service_interest"
+            ],
+            "pages": [
+              "/services/heat-pump-installation",
+              "/services/furnace-installation",
+              "/services/ac-installation"
+            ]
+          }
+        }
+      ],
+      "successMetric": "form_submit_increase",
+      "minimumSampleSize": 100,
+      "durationWeeks": 3,
+      "stopRules": [
+        "Stop if spam submissions exceed 10% of total",
+        "Stop if page engagement time drops by 25%",
+        "Stop if call conversions on test pages drop by 30%"
+      ],
+      "rollbackPlan": "Remove inline form module and restore 'Get a Free Estimate' link to /contact",
+      "status": "proposed",
+      "createdAt": "2026-02-25T01:36:40.685Z",
+      "weekNumber": 9,
+      "conversionGoal": "FORM_SUBMIT"
+    }
+  ],
+  "nextActions": [
+    "INDEX ACCELERATION: Need 35 more pages. Currently 15/50 (from 2026-02-24 GSC data). Target ~3/week.",
+    "GBP CADENCE: Increase to 2 posts/week (currently 0).",
+    "AD CAMPAIGNS: Launch 3 more campaigns this month.",
+    "LEAD GENERATION: 25 more leads needed to hit monthly target.",
+    "CONVERSION MIX: 87 calls (59%) vs 61 forms (41%). Weighted value: 129.7. Optimize both channels equally."
+  ],
+  "blockedItems": [],
+  "approvalIntegrityIssues": [],
+  "conversionSnapshot": {
+    "calls": 87,
+    "forms": 61,
+    "weightedTotal": 129.7,
+    "callDrivers": [
+      {
+        "url": "/services/furnace-repair",
+        "calls": 18,
+        "forms": 4,
+        "weightedValue": 20.8
+      },
+      {
+        "url": "/services/ac-repair",
+        "calls": 14,
+        "forms": 3,
+        "weightedValue": 16.1
+      },
+      {
+        "url": "/service-areas/denver",
+        "calls": 11,
+        "forms": 6,
+        "weightedValue": 15.2
+      },
+      {
+        "url": "/",
+        "calls": 8,
+        "forms": 5,
+        "weightedValue": 11.5
+      },
+      {
+        "url": "/contact",
+        "calls": 7,
+        "forms": 6,
+        "weightedValue": 11.2
+      },
+      {
+        "url": "/services/heat-pump-installation",
+        "calls": 6,
+        "forms": 12,
+        "weightedValue": 14.399999999999999
+      },
+      {
+        "url": "/services/furnace-installation",
+        "calls": 5,
+        "forms": 9,
+        "weightedValue": 11.3
+      },
+      {
+        "url": "/service-areas/wheat-ridge",
+        "calls": 5,
+        "forms": 3,
+        "weightedValue": 7.1
+      },
+      {
+        "url": "/services/ac-installation",
+        "calls": 4,
+        "forms": 8,
+        "weightedValue": 9.6
+      },
+      {
+        "url": "/service-areas/arvada",
+        "calls": 4,
+        "forms": 2,
+        "weightedValue": 5.4
+      }
+    ],
+    "formDrivers": [
+      {
+        "url": "/services/heat-pump-installation",
+        "calls": 6,
+        "forms": 12,
+        "weightedValue": 14.399999999999999
+      },
+      {
+        "url": "/services/furnace-installation",
+        "calls": 5,
+        "forms": 9,
+        "weightedValue": 11.3
+      },
+      {
+        "url": "/services/ac-installation",
+        "calls": 4,
+        "forms": 8,
+        "weightedValue": 9.6
+      },
+      {
+        "url": "/service-areas/denver",
+        "calls": 11,
+        "forms": 6,
+        "weightedValue": 15.2
+      },
+      {
+        "url": "/contact",
+        "calls": 7,
+        "forms": 6,
+        "weightedValue": 11.2
+      },
+      {
+        "url": "/",
+        "calls": 8,
+        "forms": 5,
+        "weightedValue": 11.5
+      },
+      {
+        "url": "/services/furnace-repair",
+        "calls": 18,
+        "forms": 4,
+        "weightedValue": 20.8
+      },
+      {
+        "url": "/services/ac-repair",
+        "calls": 14,
+        "forms": 3,
+        "weightedValue": 16.1
+      },
+      {
+        "url": "/service-areas/wheat-ridge",
+        "calls": 5,
+        "forms": 3,
+        "weightedValue": 7.1
+      },
+      {
+        "url": "/service-areas/arvada",
+        "calls": 4,
+        "forms": 2,
+        "weightedValue": 5.4
+      }
+    ]
+  },
+  "geoDistribution": {
+    "tier1_core": 0,
+    "tier2_upgrade": 0,
+    "tier3_selective": 0,
+    "tier4_boulder_reduced": 0
+  },
+  "topProfitZips": [
+    {
+      "zip": "/services/heat-pump-installation",
+      "tier": "unknown",
+      "profitEfficiency": 7270.2,
+      "weightedLeadValue": 7270.2
+    },
+    {
+      "zip": "/services/furnace-repair",
+      "tier": "unknown",
+      "profitEfficiency": 5682.6,
+      "weightedLeadValue": 5682.6
+    },
+    {
+      "zip": "/services/furnace-installation",
+      "tier": "unknown",
+      "profitEfficiency": 5554.5,
+      "weightedLeadValue": 5554.5
+    },
+    {
+      "zip": "/service-areas/denver",
+      "tier": "unknown",
+      "profitEfficiency": 5264.7,
+      "weightedLeadValue": 5264.7
+    },
+    {
+      "zip": "/services/ac-installation",
+      "tier": "unknown",
+      "profitEfficiency": 4846.8,
+      "weightedLeadValue": 4846.8
+    }
+  ],
+  "seasonMode": {
+    "season": "HEATING",
+    "month": 2,
+    "blockedIntents": []
+  },
+  "calibrationDeltas": [
+    {
+      "metric": "Call Close Rate",
+      "modeled": 0.42,
+      "observed": 0.5,
+      "delta": 0.08
+    },
+    {
+      "metric": "Form Close Rate",
+      "modeled": 0.18,
+      "observed": 0.4,
+      "delta": 0.22
+    },
+    {
+      "metric": "Avg Ticket (Call)",
+      "modeled": 485,
+      "observed": 471.67,
+      "delta": -13.33
+    },
+    {
+      "metric": "Avg Ticket (Form)",
+      "modeled": 2800,
+      "observed": 2862.5,
+      "delta": 62.5
+    }
+  ],
+  "wasteHunterSummary": {
+    "totalTerms": 15,
+    "negativeRecs": 9,
+    "matchTypeTightens": 0,
+    "wastedSpend": 542.5
+  },
+  "conservativeMode": {
+    "mode": "CONSERVATIVE",
+    "capacityStatus": {
+      "backlogHours": 0,
+      "maxHours": 72,
+      "available": true
+    },
+    "blockedScaleEvents": 0,
+    "pullbackTriggers": 0,
+    "travelInefficiencies": 0,
+    "tier2Allowed": false,
+    "tier4Allowed": false,
+    "expansionBlockReason": "tier1 saturation 0% < 80% threshold"
+  },
+  "flowGovernor": {
+    "leadsToday": 0,
+    "leadsCap": 12,
+    "installWeek": 0,
+    "installCap": 8,
+    "repairToday": 0,
+    "repairCap": 10,
+    "upgradeRatio": 0,
+    "upgradeMin": 0.2,
+    "backlogHours": 0,
+    "backlogBuffer": 48,
+    "decisions": [],
+    "suppressedCount": 0,
+    "reprioritizedCount": 0,
+    "boostedCount": 0,
+    "flowMode": "NORMAL",
+    "effectiveLeads": 0,
+    "rawLeads": 0,
+    "hardCap": 12,
+    "softCap": 15.96,
+    "overflowCap": 19.92,
+    "lowTicketRepairShare": 0,
+    "maxLowTicketRepairShare": 0.55
+  },
+  "geoLearning": {
+    "mode": "CONSERVATIVE",
+    "zipsEvaluated": 42,
+    "increases": 31,
+    "decreases": 3,
+    "holds": 5,
+    "insufficientData": 3,
+    "topPerformers": [
+      {
+        "zip": "80113",
+        "cpl": 40.91,
+        "profitEfficiency": 2691.6,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80126",
+        "cpl": 52,
+        "profitEfficiency": 2417.9,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80020",
+        "cpl": 43.75,
+        "profitEfficiency": 2180.5,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80109",
+        "cpl": 47.5,
+        "profitEfficiency": 2150.5,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80110",
+        "cpl": 50,
+        "profitEfficiency": 2130.5,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80128",
+        "cpl": 50,
+        "profitEfficiency": 2130.5,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80134",
+        "cpl": 62.5,
+        "profitEfficiency": 2030.5,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80138",
+        "cpl": 50,
+        "profitEfficiency": 1976.8,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80014",
+        "cpl": 55.71,
+        "profitEfficiency": 1936.8,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      },
+      {
+        "zip": "80005",
+        "cpl": 43.75,
+        "profitEfficiency": 1880.2,
+        "currentWeight": 1,
+        "proposedWeight": 1.05
+      }
+    ],
+    "proposals": [
+      {
+        "zip": "80004",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $51.43 ≤ $68 (90% target) + profit $1666.5 > 0",
+        "leads": 7,
+        "cpl": 51.43,
+        "profitEfficiency": 1666.5
+      },
+      {
+        "zip": "80005",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $43.75 ≤ $68 (90% target) + profit $1880.2 > 0",
+        "leads": 8,
+        "cpl": 43.75,
+        "profitEfficiency": 1880.2
+      },
+      {
+        "zip": "80007",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $47.5 ≤ $68 (90% target) + profit $1850.2 > 0",
+        "leads": 8,
+        "cpl": 47.5,
+        "profitEfficiency": 1850.2
+      },
+      {
+        "zip": "80013",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $50 ≤ $68 (90% target) + profit $1676.5 > 0",
+        "leads": 7,
+        "cpl": 50,
+        "profitEfficiency": 1676.5
+      },
+      {
+        "zip": "80014",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $55.71 ≤ $68 (90% target) + profit $1936.8 > 0",
+        "leads": 7,
+        "cpl": 55.71,
+        "profitEfficiency": 1936.8
+      },
+      {
+        "zip": "80015",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $51.43 ≤ $68 (90% target) + profit $1666.5 > 0",
+        "leads": 7,
+        "cpl": 51.43,
+        "profitEfficiency": 1666.5
+      },
+      {
+        "zip": "80016",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $20 ≤ $68 (90% target) + profit $1519.1 > 0",
+        "leads": 5,
+        "cpl": 20,
+        "profitEfficiency": 1519.1
+      },
+      {
+        "zip": "80020",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $43.75 ≤ $68 (90% target) + profit $2180.5 > 0",
+        "leads": 8,
+        "cpl": 43.75,
+        "profitEfficiency": 2180.5
+      },
+      {
+        "zip": "80023",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $35.71 ≤ $68 (90% target) + profit $1776.5 > 0",
+        "leads": 7,
+        "cpl": 35.71,
+        "profitEfficiency": 1776.5
+      },
+      {
+        "zip": "80108",
+        "currentWeight": 1,
+        "proposedWeight": 0.95,
+        "delta": -0.05,
+        "reason": "CPL $120 ≥ $86 (115% target)",
+        "leads": 5,
+        "cpl": 120,
+        "profitEfficiency": 1019.1
+      },
+      {
+        "zip": "80109",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $47.5 ≤ $68 (90% target) + profit $2150.5 > 0",
+        "leads": 8,
+        "cpl": 47.5,
+        "profitEfficiency": 2150.5
+      },
+      {
+        "zip": "80110",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $50 ≤ $68 (90% target) + profit $2130.5 > 0",
+        "leads": 8,
+        "cpl": 50,
+        "profitEfficiency": 2130.5
+      },
+      {
+        "zip": "80111",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $47.5 ≤ $68 (90% target) + profit $1850.2 > 0",
+        "leads": 8,
+        "cpl": 47.5,
+        "profitEfficiency": 1850.2
+      },
+      {
+        "zip": "80112",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $56 ≤ $68 (90% target) + profit $1038.8 > 0",
+        "leads": 5,
+        "cpl": 56,
+        "profitEfficiency": 1038.8
+      },
+      {
+        "zip": "80113",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $40.91 ≤ $68 (90% target) + profit $2691.6 > 0",
+        "leads": 11,
+        "cpl": 40.91,
+        "profitEfficiency": 2691.6
+      },
+      {
+        "zip": "80116",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $58 ≤ $68 (90% target) + profit $1329.1 > 0",
+        "leads": 5,
+        "cpl": 58,
+        "profitEfficiency": 1329.1
+      },
+      {
+        "zip": "80121",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $53.33 ≤ $68 (90% target) + profit $1202.5 > 0",
+        "leads": 6,
+        "cpl": 53.33,
+        "profitEfficiency": 1202.5
+      },
+      {
+        "zip": "80122",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $50 ≤ $68 (90% target) + profit $1522.8 > 0",
+        "leads": 6,
+        "cpl": 50,
+        "profitEfficiency": 1522.8
+      },
+      {
+        "zip": "80123",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $53.33 ≤ $68 (90% target) + profit $1502.8 > 0",
+        "leads": 6,
+        "cpl": 53.33,
+        "profitEfficiency": 1502.8
+      },
+      {
+        "zip": "80124",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $50 ≤ $68 (90% target) + profit $1676.5 > 0",
+        "leads": 7,
+        "cpl": 50,
+        "profitEfficiency": 1676.5
+      },
+      {
+        "zip": "80126",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $52 ≤ $68 (90% target) + profit $2417.9 > 0",
+        "leads": 10,
+        "cpl": 52,
+        "profitEfficiency": 2417.9
+      },
+      {
+        "zip": "80127",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $43.75 ≤ $68 (90% target) + profit $1880.2 > 0",
+        "leads": 8,
+        "cpl": 43.75,
+        "profitEfficiency": 1880.2
+      },
+      {
+        "zip": "80128",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $50 ≤ $68 (90% target) + profit $2130.5 > 0",
+        "leads": 8,
+        "cpl": 50,
+        "profitEfficiency": 2130.5
+      },
+      {
+        "zip": "80130",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $66.67 ≤ $68 (90% target) + profit $1422.8 > 0",
+        "leads": 6,
+        "cpl": 66.67,
+        "profitEfficiency": 1422.8
+      },
+      {
+        "zip": "80132",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $50 ≤ $68 (90% target) + profit $1522.8 > 0",
+        "leads": 6,
+        "cpl": 50,
+        "profitEfficiency": 1522.8
+      },
+      {
+        "zip": "80134",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $62.5 ≤ $68 (90% target) + profit $2030.5 > 0",
+        "leads": 8,
+        "cpl": 62.5,
+        "profitEfficiency": 2030.5
+      },
+      {
+        "zip": "80138",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $50 ≤ $68 (90% target) + profit $1976.8 > 0",
+        "leads": 7,
+        "cpl": 50,
+        "profitEfficiency": 1976.8
+      },
+      {
+        "zip": "80401",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $58 ≤ $68 (90% target) + profit $1028.8 > 0",
+        "leads": 5,
+        "cpl": 58,
+        "profitEfficiency": 1028.8
+      },
+      {
+        "zip": "80454",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $63.33 ≤ $68 (90% target) + profit $1442.8 > 0",
+        "leads": 6,
+        "cpl": 63.33,
+        "profitEfficiency": 1442.8
+      },
+      {
+        "zip": "80465",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $63.33 ≤ $68 (90% target) + profit $1442.8 > 0",
+        "leads": 6,
+        "cpl": 63.33,
+        "profitEfficiency": 1442.8
+      },
+      {
+        "zip": "80601",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $57.14 ≤ $68 (90% target) + profit $1626.5 > 0",
+        "leads": 7,
+        "cpl": 57.14,
+        "profitEfficiency": 1626.5
+      },
+      {
+        "zip": "80602",
+        "currentWeight": 1,
+        "proposedWeight": 0.95,
+        "delta": -0.05,
+        "reason": "CPL $100 ≥ $86 (115% target)",
+        "leads": 7,
+        "cpl": 100,
+        "profitEfficiency": 1626.8
+      },
+      {
+        "zip": "80621",
+        "currentWeight": 1,
+        "proposedWeight": 1.05,
+        "delta": 0.05,
+        "reason": "CPL $58.33 ≤ $68 (90% target) + profit $1472.8 > 0",
+        "leads": 6,
+        "cpl": 58.33,
+        "profitEfficiency": 1472.8
+      },
+      {
+        "zip": "80640",
+        "currentWeight": 1,
+        "proposedWeight": 0.95,
+        "delta": -0.05,
+        "reason": "CPL $100 ≥ $86 (115% target)",
+        "leads": 5,
+        "cpl": 100,
+        "profitEfficiency": 1119.1
+      }
+    ]
+  }
+}

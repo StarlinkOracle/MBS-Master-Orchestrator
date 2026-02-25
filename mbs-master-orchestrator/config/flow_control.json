@@ -1,0 +1,12 @@
+{
+  "maxQualifiedLeadsPerDay": 12,
+  "hardCapQualifiedLeadsPerDay": 12,
+  "softCapMultiplier": 1.33,
+  "overflowMultiplier": 1.66,
+  "maxInstallLeadsPerWeek": 8,
+  "maxRepairLeadsPerDay": 10,
+  "minUpgradeRatio": 0.20,
+  "backlogBufferHours": 48,
+  "maxLowTicketRepairShare": 0.55,
+  "qualityDiscountEnabled": true
+}

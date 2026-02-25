@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-02-25T01:36:40.695Z",
+  "totalTermsAnalyzed": 15,
+  "negativeRecommendations": [
+    {
+      "term": "hvac technician jobs denver",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 90,
+      "clicks": 12,
+      "conversions": 0,
+      "category": "jobs"
+    },
+    {
+      "term": "diy furnace repair guide",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 60,
+      "clicks": 8,
+      "conversions": 0,
+      "category": "diy"
+    },
+    {
+      "term": "furnace parts wholesale",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 45,
+      "clicks": 6,
+      "conversions": 0,
+      "category": "parts"
+    },
+    {
+      "term": "furnace repair manual pdf",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 37.5,
+      "clicks": 5,
+      "conversions": 0,
+      "category": "manuals"
+    },
+    {
+      "term": "heat pump reviews 2026",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 100,
+      "clicks": 10,
+      "conversions": 0,
+      "category": "reviews"
+    },
+    {
+      "term": "best heat pump brands",
+      "reason": "high_spend_zero_conv",
+      "action": "add_negative",
+      "matchType": "exact",
+      "spend": 90,
+      "clicks": 9,
+      "conversions": 0
+    },
+    {
+      "term": "hvac school denver",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 52.5,
+      "clicks": 7,
+      "conversions": 0,
+      "category": "education"
+    },
+    {
+      "term": "ac repair training course",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 30,
+      "clicks": 4,
+      "conversions": 0,
+      "category": "education"
+    },
+    {
+      "term": "cheap hvac wholesale parts",
+      "reason": "irrelevant",
+      "action": "add_negative",
+      "matchType": "phrase",
+      "spend": 37.5,
+      "clicks": 5,
+      "conversions": 0,
+      "category": "parts"
+    }
+  ],
+  "matchTypeTightenings": [],
+  "summary": {
+    "totalWastedSpend": 542.5,
+    "highSpendZeroConv": 1,
+    "irrelevantTerms": 8,
+    "tightenSuggestions": 0
+  }
+}

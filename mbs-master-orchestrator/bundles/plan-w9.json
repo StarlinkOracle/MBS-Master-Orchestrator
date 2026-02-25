@@ -1,0 +1,392 @@
+{
+  "planId": "plan-w9-2026-02-25",
+  "weekNumber": 9,
+  "createdAt": "2026-02-25T17:52:01.899Z",
+  "intents": [
+    {
+      "id": "w9-marketing-furnace-seasonal",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-furnace-push",
+        "--type",
+        "google-ad",
+        "--service",
+        "Furnace Repair"
+      ],
+      "reason": "Furnace season (Oct-Feb): boost heating campaign — repair intent drives calls",
+      "priority": "high",
+      "kpiDriver": "monthlyLeads",
+      "expectedCalls": 8,
+      "expectedForms": 2,
+      "expectedConversionValue": 9.4,
+      "profitEfficiencyScore": 2637.6,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 9.4
+    },
+    {
+      "id": "w9-marketing-ads",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-ads",
+        "--type",
+        "google-ad"
+      ],
+      "reason": "Ad campaigns below monthly target (1/4)",
+      "priority": "high",
+      "kpiDriver": "monthlyAdCampaigns",
+      "expectedCalls": 5,
+      "expectedForms": 3,
+      "expectedConversionValue": 7.1,
+      "profitEfficiencyScore": 2530.5,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 7.1
+    },
+    {
+      "id": "w9-marketing-opportunity",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-opportunity",
+        "--type",
+        "seo",
+        "--service",
+        "boiler repair denver"
+      ],
+      "reason": "High-impression query \"boiler repair denver\" (234 impr) at position 10.2 — call-first content opportunity | Conversions: 87 calls, 61 forms",
+      "priority": "high",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 5,
+      "expectedForms": 1,
+      "expectedConversionValue": 5.7,
+      "profitEfficiencyScore": 1522.5,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.7
+    },
+    {
+      "id": "w9-marketing-geo-draft",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-batch",
+        "--type",
+        "geo"
+      ],
+      "reason": "Accelerate GEO page production to close index gap",
+      "priority": "high",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 2,
+      "expectedForms": 3,
+      "expectedConversionValue": 4.1,
+      "profitEfficiencyScore": 1919.4,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 4.1
+    },
+    {
+      "id": "w9-marketing-call-optimize",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-call-cta",
+        "--type",
+        "seo",
+        "--service",
+        "Repair CTA Optimization"
+      ],
+      "reason": "Call-first page \"/services/furnace-repair\" driving 18 calls — optimize CTA placement and trust signals",
+      "priority": "high",
+      "kpiDriver": "monthlyLeads",
+      "expectedCalls": 4,
+      "expectedForms": 0,
+      "expectedConversionValue": 4,
+      "profitEfficiencyScore": 814.8,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 4
+    },
+    {
+      "id": "w9-marketing-form-optimize",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-form-cta",
+        "--type",
+        "seo",
+        "--service",
+        "Estimate Form Optimization"
+      ],
+      "reason": "Form-first page \"/services/heat-pump-installation\" driving 12 forms — optimize estimate form and module layout",
+      "priority": "high",
+      "kpiDriver": "monthlyLeads",
+      "expectedCalls": 0,
+      "expectedForms": 4,
+      "expectedConversionValue": 2.8,
+      "profitEfficiencyScore": 2016,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 2.8
+    },
+    {
+      "id": "w9-marketing-index-accel",
+      "operator": "marketing",
+      "command": "plan",
+      "args": [
+        "--days",
+        "30"
+      ],
+      "reason": "Index gap: 35 pages behind target (15/50) (from 2026-02-24 snapshot: 6677 impr, 490 clicks)",
+      "priority": "high",
+      "kpiDriver": "indexedPages",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 0
+    },
+    {
+      "id": "w9-marketing-geo-80004",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80004",
+        "--type",
+        "geo",
+        "--zip",
+        "80004"
+      ],
+      "reason": "Target ZIP 80004 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80004",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-geo-80005",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80005",
+        "--type",
+        "geo",
+        "--zip",
+        "80005"
+      ],
+      "reason": "Target ZIP 80005 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80005",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-geo-80007",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80007",
+        "--type",
+        "geo",
+        "--zip",
+        "80007"
+      ],
+      "reason": "Target ZIP 80007 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80007",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-geo-80013",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80013",
+        "--type",
+        "geo",
+        "--zip",
+        "80013"
+      ],
+      "reason": "Target ZIP 80013 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80013",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-geo-80014",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80014",
+        "--type",
+        "geo",
+        "--zip",
+        "80014"
+      ],
+      "reason": "Target ZIP 80014 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80014",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-geo-80015",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80015",
+        "--type",
+        "geo",
+        "--zip",
+        "80015"
+      ],
+      "reason": "Target ZIP 80015 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80015",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-geo-80016",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80016",
+        "--type",
+        "geo",
+        "--zip",
+        "80016"
+      ],
+      "reason": "Target ZIP 80016 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80016",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-geo-80020",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-geo-80020",
+        "--type",
+        "geo",
+        "--zip",
+        "80020"
+      ],
+      "reason": "Target ZIP 80020 (weight 1.00) — geo page targeting",
+      "priority": "medium",
+      "kpiDriver": "indexedPages",
+      "expectedCalls": 4,
+      "expectedForms": 2,
+      "expectedConversionValue": 5.4,
+      "zip": "80020",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 5.4,
+      "profitEfficiencyScore": 1822.8
+    },
+    {
+      "id": "w9-marketing-gbp",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-gbp",
+        "--type",
+        "gbp"
+      ],
+      "reason": "GBP posts below target (0/2 per week)",
+      "priority": "medium",
+      "kpiDriver": "weeklyGBPPosts",
+      "expectedCalls": 2,
+      "expectedForms": 0,
+      "expectedConversionValue": 2,
+      "profitEfficiencyScore": 407.4,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 2
+    },
+    {
+      "id": "w9-marketing-report",
+      "operator": "marketing",
+      "command": "report",
+      "args": [
+        "--weekly"
+      ],
+      "reason": "Standard weekly reporting",
+      "priority": "medium",
+      "geoTier": "unknown",
+      "geoAdjustedScore": 0
+    },
+    {
+      "id": "w9-marketing-blog",
+      "operator": "marketing",
+      "command": "draft",
+      "args": [
+        "--intent",
+        "week-9-blog",
+        "--type",
+        "seo",
+        "--service",
+        "Heat Pump Installation"
+      ],
+      "reason": "Blog posts below weekly target (0/1)",
+      "priority": "low",
+      "kpiDriver": "weeklyBlogPosts",
+      "expectedCalls": 0,
+      "expectedForms": 1,
+      "expectedConversionValue": 0.7,
+      "profitEfficiencyScore": 504,
+      "geoTier": "unknown",
+      "geoAdjustedScore": 0.7
+    }
+  ],
+  "seasonMode": "HEATING",
+  "operatingMode": "CONSERVATIVE",
+  "constitution_version": "1.0.0",
+  "constitution_hash": "03b7ab078318c4fd2b47b693ad22b219b6bb3eb8d937949918eb0a5d6fa01f54",
+  "gatekeeper_mode": "CONSERVATIVE"
+}

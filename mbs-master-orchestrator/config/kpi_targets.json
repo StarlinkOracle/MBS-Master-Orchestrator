@@ -1,0 +1,28 @@
+{
+  "indexedPages": {
+    "current": 12,
+    "target": 50,
+    "deadline": "2026-06-30"
+  },
+  "weeklyGBPPosts": {
+    "current": 0,
+    "target": 2
+  },
+  "monthlyAdCampaigns": {
+    "current": 1,
+    "target": 4
+  },
+  "weeklyBlogPosts": {
+    "current": 0,
+    "target": 1
+  },
+  "reviewVelocity": {
+    "current": 2,
+    "target": 5,
+    "unit": "reviews_per_month"
+  },
+  "monthlyLeads": {
+    "current": 15,
+    "target": 40
+  }
+}

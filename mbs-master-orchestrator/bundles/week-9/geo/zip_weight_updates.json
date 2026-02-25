@@ -1,0 +1,470 @@
+{
+  "timestamp": "2026-02-25T01:36:40.698Z",
+  "mode": "CONSERVATIVE",
+  "zipsEvaluated": 42,
+  "proposals": [
+    {
+      "zip": "80004",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $51.43 ≤ $68 (90% target) + profit $1666.5 > 0",
+      "leads": 7,
+      "cpl": 51.43,
+      "profitEfficiency": 1666.5
+    },
+    {
+      "zip": "80005",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $43.75 ≤ $68 (90% target) + profit $1880.2 > 0",
+      "leads": 8,
+      "cpl": 43.75,
+      "profitEfficiency": 1880.2
+    },
+    {
+      "zip": "80007",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $47.5 ≤ $68 (90% target) + profit $1850.2 > 0",
+      "leads": 8,
+      "cpl": 47.5,
+      "profitEfficiency": 1850.2
+    },
+    {
+      "zip": "80013",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $50 ≤ $68 (90% target) + profit $1676.5 > 0",
+      "leads": 7,
+      "cpl": 50,
+      "profitEfficiency": 1676.5
+    },
+    {
+      "zip": "80014",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $55.71 ≤ $68 (90% target) + profit $1936.8 > 0",
+      "leads": 7,
+      "cpl": 55.71,
+      "profitEfficiency": 1936.8
+    },
+    {
+      "zip": "80015",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $51.43 ≤ $68 (90% target) + profit $1666.5 > 0",
+      "leads": 7,
+      "cpl": 51.43,
+      "profitEfficiency": 1666.5
+    },
+    {
+      "zip": "80016",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $20 ≤ $68 (90% target) + profit $1519.1 > 0",
+      "leads": 5,
+      "cpl": 20,
+      "profitEfficiency": 1519.1
+    },
+    {
+      "zip": "80020",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $43.75 ≤ $68 (90% target) + profit $2180.5 > 0",
+      "leads": 8,
+      "cpl": 43.75,
+      "profitEfficiency": 2180.5
+    },
+    {
+      "zip": "80023",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $35.71 ≤ $68 (90% target) + profit $1776.5 > 0",
+      "leads": 7,
+      "cpl": 35.71,
+      "profitEfficiency": 1776.5
+    },
+    {
+      "zip": "80108",
+      "currentWeight": 1,
+      "proposedWeight": 0.95,
+      "delta": -0.05,
+      "reason": "CPL $120 ≥ $86 (115% target)",
+      "leads": 5,
+      "cpl": 120,
+      "profitEfficiency": 1019.1
+    },
+    {
+      "zip": "80109",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $47.5 ≤ $68 (90% target) + profit $2150.5 > 0",
+      "leads": 8,
+      "cpl": 47.5,
+      "profitEfficiency": 2150.5
+    },
+    {
+      "zip": "80110",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $50 ≤ $68 (90% target) + profit $2130.5 > 0",
+      "leads": 8,
+      "cpl": 50,
+      "profitEfficiency": 2130.5
+    },
+    {
+      "zip": "80111",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $47.5 ≤ $68 (90% target) + profit $1850.2 > 0",
+      "leads": 8,
+      "cpl": 47.5,
+      "profitEfficiency": 1850.2
+    },
+    {
+      "zip": "80112",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $56 ≤ $68 (90% target) + profit $1038.8 > 0",
+      "leads": 5,
+      "cpl": 56,
+      "profitEfficiency": 1038.8
+    },
+    {
+      "zip": "80113",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $40.91 ≤ $68 (90% target) + profit $2691.6 > 0",
+      "leads": 11,
+      "cpl": 40.91,
+      "profitEfficiency": 2691.6
+    },
+    {
+      "zip": "80116",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $58 ≤ $68 (90% target) + profit $1329.1 > 0",
+      "leads": 5,
+      "cpl": 58,
+      "profitEfficiency": 1329.1
+    },
+    {
+      "zip": "80121",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $53.33 ≤ $68 (90% target) + profit $1202.5 > 0",
+      "leads": 6,
+      "cpl": 53.33,
+      "profitEfficiency": 1202.5
+    },
+    {
+      "zip": "80122",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $50 ≤ $68 (90% target) + profit $1522.8 > 0",
+      "leads": 6,
+      "cpl": 50,
+      "profitEfficiency": 1522.8
+    },
+    {
+      "zip": "80123",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $53.33 ≤ $68 (90% target) + profit $1502.8 > 0",
+      "leads": 6,
+      "cpl": 53.33,
+      "profitEfficiency": 1502.8
+    },
+    {
+      "zip": "80124",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $50 ≤ $68 (90% target) + profit $1676.5 > 0",
+      "leads": 7,
+      "cpl": 50,
+      "profitEfficiency": 1676.5
+    },
+    {
+      "zip": "80126",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $52 ≤ $68 (90% target) + profit $2417.9 > 0",
+      "leads": 10,
+      "cpl": 52,
+      "profitEfficiency": 2417.9
+    },
+    {
+      "zip": "80127",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $43.75 ≤ $68 (90% target) + profit $1880.2 > 0",
+      "leads": 8,
+      "cpl": 43.75,
+      "profitEfficiency": 1880.2
+    },
+    {
+      "zip": "80128",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $50 ≤ $68 (90% target) + profit $2130.5 > 0",
+      "leads": 8,
+      "cpl": 50,
+      "profitEfficiency": 2130.5
+    },
+    {
+      "zip": "80130",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $66.67 ≤ $68 (90% target) + profit $1422.8 > 0",
+      "leads": 6,
+      "cpl": 66.67,
+      "profitEfficiency": 1422.8
+    },
+    {
+      "zip": "80132",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $50 ≤ $68 (90% target) + profit $1522.8 > 0",
+      "leads": 6,
+      "cpl": 50,
+      "profitEfficiency": 1522.8
+    },
+    {
+      "zip": "80134",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $62.5 ≤ $68 (90% target) + profit $2030.5 > 0",
+      "leads": 8,
+      "cpl": 62.5,
+      "profitEfficiency": 2030.5
+    },
+    {
+      "zip": "80138",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $50 ≤ $68 (90% target) + profit $1976.8 > 0",
+      "leads": 7,
+      "cpl": 50,
+      "profitEfficiency": 1976.8
+    },
+    {
+      "zip": "80401",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $58 ≤ $68 (90% target) + profit $1028.8 > 0",
+      "leads": 5,
+      "cpl": 58,
+      "profitEfficiency": 1028.8
+    },
+    {
+      "zip": "80454",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $63.33 ≤ $68 (90% target) + profit $1442.8 > 0",
+      "leads": 6,
+      "cpl": 63.33,
+      "profitEfficiency": 1442.8
+    },
+    {
+      "zip": "80465",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $63.33 ≤ $68 (90% target) + profit $1442.8 > 0",
+      "leads": 6,
+      "cpl": 63.33,
+      "profitEfficiency": 1442.8
+    },
+    {
+      "zip": "80601",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $57.14 ≤ $68 (90% target) + profit $1626.5 > 0",
+      "leads": 7,
+      "cpl": 57.14,
+      "profitEfficiency": 1626.5
+    },
+    {
+      "zip": "80602",
+      "currentWeight": 1,
+      "proposedWeight": 0.95,
+      "delta": -0.05,
+      "reason": "CPL $100 ≥ $86 (115% target)",
+      "leads": 7,
+      "cpl": 100,
+      "profitEfficiency": 1626.8
+    },
+    {
+      "zip": "80621",
+      "currentWeight": 1,
+      "proposedWeight": 1.05,
+      "delta": 0.05,
+      "reason": "CPL $58.33 ≤ $68 (90% target) + profit $1472.8 > 0",
+      "leads": 6,
+      "cpl": 58.33,
+      "profitEfficiency": 1472.8
+    },
+    {
+      "zip": "80640",
+      "currentWeight": 1,
+      "proposedWeight": 0.95,
+      "delta": -0.05,
+      "reason": "CPL $100 ≥ $86 (115% target)",
+      "leads": 5,
+      "cpl": 100,
+      "profitEfficiency": 1119.1
+    }
+  ],
+  "insufficientData": [
+    "80129",
+    "80155",
+    "80433"
+  ],
+  "topPerformers": [
+    {
+      "zip": "80113",
+      "leads": 11,
+      "calls": 8,
+      "forms": 3,
+      "spend": 450,
+      "cpl": 40.91,
+      "weightedLeadValue": 3141.6,
+      "profitEfficiency": 2691.6,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80126",
+      "leads": 10,
+      "calls": 7,
+      "forms": 3,
+      "spend": 520,
+      "cpl": 52,
+      "weightedLeadValue": 2937.9,
+      "profitEfficiency": 2417.9,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80020",
+      "leads": 8,
+      "calls": 5,
+      "forms": 3,
+      "spend": 350,
+      "cpl": 43.75,
+      "weightedLeadValue": 2530.5,
+      "profitEfficiency": 2180.5,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80109",
+      "leads": 8,
+      "calls": 5,
+      "forms": 3,
+      "spend": 380,
+      "cpl": 47.5,
+      "weightedLeadValue": 2530.5,
+      "profitEfficiency": 2150.5,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80110",
+      "leads": 8,
+      "calls": 5,
+      "forms": 3,
+      "spend": 400,
+      "cpl": 50,
+      "weightedLeadValue": 2530.5,
+      "profitEfficiency": 2130.5,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80128",
+      "leads": 8,
+      "calls": 5,
+      "forms": 3,
+      "spend": 400,
+      "cpl": 50,
+      "weightedLeadValue": 2530.5,
+      "profitEfficiency": 2130.5,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80134",
+      "leads": 8,
+      "calls": 5,
+      "forms": 3,
+      "spend": 500,
+      "cpl": 62.5,
+      "weightedLeadValue": 2530.5,
+      "profitEfficiency": 2030.5,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80138",
+      "leads": 7,
+      "calls": 4,
+      "forms": 3,
+      "spend": 350,
+      "cpl": 50,
+      "weightedLeadValue": 2326.8,
+      "profitEfficiency": 1976.8,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80014",
+      "leads": 7,
+      "calls": 4,
+      "forms": 3,
+      "spend": 390,
+      "cpl": 55.71,
+      "weightedLeadValue": 2326.8,
+      "profitEfficiency": 1936.8,
+      "currentWeight": 1
+    },
+    {
+      "zip": "80005",
+      "leads": 8,
+      "calls": 6,
+      "forms": 2,
+      "spend": 350,
+      "cpl": 43.75,
+      "weightedLeadValue": 2230.2,
+      "profitEfficiency": 1880.2,
+      "currentWeight": 1
+    }
+  ],
+  "summary": {
+    "increases": 31,
+    "decreases": 3,
+    "holds": 5,
+    "insufficientData": 3
+  }
+}

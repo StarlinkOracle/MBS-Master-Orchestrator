@@ -1,0 +1,30 @@
+{
+  "name": "mbs-master-orchestrator",
+  "version": "1.0.0",
+  "description": "Master Orchestrator — coordinates operator repos, assembles weekly bundles, enforces governance",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "mbs-master": "./dist/cli/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "cli": "tsx cli/index.ts",
+    "plan": "tsx cli/index.ts plan --week current",
+    "run-intent": "tsx cli/index.ts run --intent",
+    "bundle": "tsx cli/index.ts bundle",
+    "report": "tsx cli/index.ts report --weekly",
+    "status": "tsx cli/index.ts status",
+    "demo": "tsx scripts/demo-run.ts",
+    "test": "tsx scripts/run-tests.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
