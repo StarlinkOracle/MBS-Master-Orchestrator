@@ -1,0 +1,23 @@
+{
+  "call": {
+    "durationThresholdSec": 60,
+    "peakHoursBonus": 0.15,
+    "repeatCallerPenalty": 0.10,
+    "weights": {
+      "duration": 0.40,
+      "peakHour": 0.25,
+      "serviceMatch": 0.35
+    }
+  },
+  "form": {
+    "requiredFields": ["name", "phone", "service"],
+    "bonusFields": ["address", "zipCode", "preferredDate", "urgency"],
+    "weights": {
+      "fieldCompleteness": 0.35,
+      "serviceSpecificity": 0.35,
+      "urgencySignal": 0.30
+    },
+    "urgencyKeywords": ["emergency", "urgent", "asap", "today", "broken", "not working", "no heat", "no ac", "leak"]
+  },
+  "qualityThreshold": 0.60
+}

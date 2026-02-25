@@ -1,0 +1,325 @@
+{
+  "date": "2026-02-24",
+  "source": "combined",
+  "indexedPages": 15,
+  "topPages": [
+    {
+      "page": "https://russellcomfort.com/",
+      "impressions": 1842,
+      "clicks": 156,
+      "ctr": 0.085,
+      "position": 4.2
+    },
+    {
+      "page": "https://russellcomfort.com/services/heat-pump-installation",
+      "impressions": 892,
+      "clicks": 67,
+      "ctr": 0.075,
+      "position": 6.1
+    },
+    {
+      "page": "https://russellcomfort.com/services/ac-repair",
+      "impressions": 734,
+      "clicks": 52,
+      "ctr": 0.071,
+      "position": 5.8
+    },
+    {
+      "page": "https://russellcomfort.com/services/furnace-repair",
+      "impressions": 681,
+      "clicks": 48,
+      "ctr": 0.07,
+      "position": 7.2
+    },
+    {
+      "page": "https://russellcomfort.com/services/furnace-installation",
+      "impressions": 523,
+      "clicks": 34,
+      "ctr": 0.065,
+      "position": 8.4
+    },
+    {
+      "page": "https://russellcomfort.com/services/ac-installation",
+      "impressions": 498,
+      "clicks": 31,
+      "ctr": 0.062,
+      "position": 9.1
+    },
+    {
+      "page": "https://russellcomfort.com/service-areas/denver",
+      "impressions": 412,
+      "clicks": 28,
+      "ctr": 0.068,
+      "position": 5.3
+    },
+    {
+      "page": "https://russellcomfort.com/service-areas/wheat-ridge",
+      "impressions": 234,
+      "clicks": 18,
+      "ctr": 0.077,
+      "position": 6.7
+    },
+    {
+      "page": "https://russellcomfort.com/service-areas/arvada",
+      "impressions": 198,
+      "clicks": 14,
+      "ctr": 0.071,
+      "position": 7.8
+    },
+    {
+      "page": "https://russellcomfort.com/service-areas/lakewood",
+      "impressions": 176,
+      "clicks": 12,
+      "ctr": 0.068,
+      "position": 8.2
+    },
+    {
+      "page": "https://russellcomfort.com/service-areas/golden",
+      "impressions": 145,
+      "clicks": 9,
+      "ctr": 0.062,
+      "position": 9.4
+    },
+    {
+      "page": "https://russellcomfort.com/service-areas/thornton",
+      "impressions": 132,
+      "clicks": 8,
+      "ctr": 0.061,
+      "position": 10.1
+    },
+    {
+      "page": "https://russellcomfort.com/blog/heat-pump-vs-furnace",
+      "impressions": 89,
+      "clicks": 6,
+      "ctr": 0.067,
+      "position": 12.3
+    },
+    {
+      "page": "https://russellcomfort.com/about",
+      "impressions": 67,
+      "clicks": 4,
+      "ctr": 0.06,
+      "position": 11.5
+    },
+    {
+      "page": "https://russellcomfort.com/contact",
+      "impressions": 54,
+      "clicks": 3,
+      "ctr": 0.055999999999999994,
+      "position": 14.2
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "heat pump installation denver",
+      "impressions": 1245,
+      "clicks": 89,
+      "ctr": 0.071,
+      "position": 4.8
+    },
+    {
+      "query": "furnace repair denver",
+      "impressions": 987,
+      "clicks": 72,
+      "ctr": 0.073,
+      "position": 5.2
+    },
+    {
+      "query": "ac repair denver",
+      "impressions": 876,
+      "clicks": 61,
+      "ctr": 0.07,
+      "position": 5.5
+    },
+    {
+      "query": "hvac denver",
+      "impressions": 812,
+      "clicks": 54,
+      "ctr": 0.067,
+      "position": 6.3
+    },
+    {
+      "query": "furnace installation denver metro",
+      "impressions": 654,
+      "clicks": 42,
+      "ctr": 0.064,
+      "position": 7.1
+    },
+    {
+      "query": "ac installation wheat ridge",
+      "impressions": 432,
+      "clicks": 28,
+      "ctr": 0.065,
+      "position": 6.8
+    },
+    {
+      "query": "russell comfort solutions",
+      "impressions": 134,
+      "clicks": 28,
+      "ctr": 0.209,
+      "position": 1.2
+    },
+    {
+      "query": "heat pump repair arvada",
+      "impressions": 387,
+      "clicks": 24,
+      "ctr": 0.062,
+      "position": 8.2
+    },
+    {
+      "query": "furnace repair wheat ridge",
+      "impressions": 345,
+      "clicks": 21,
+      "ctr": 0.061,
+      "position": 7.9
+    },
+    {
+      "query": "denver hvac company",
+      "impressions": 312,
+      "clicks": 19,
+      "ctr": 0.061,
+      "position": 9.3
+    },
+    {
+      "query": "ac repair lakewood co",
+      "impressions": 287,
+      "clicks": 17,
+      "ctr": 0.059000000000000004,
+      "position": 8.7
+    },
+    {
+      "query": "boiler repair denver",
+      "impressions": 234,
+      "clicks": 14,
+      "ctr": 0.06,
+      "position": 10.2
+    },
+    {
+      "query": "emergency furnace repair denver",
+      "impressions": 176,
+      "clicks": 13,
+      "ctr": 0.07400000000000001,
+      "position": 6.1
+    },
+    {
+      "query": "radiant floor heating denver",
+      "impressions": 198,
+      "clicks": 11,
+      "ctr": 0.055999999999999994,
+      "position": 11.4
+    },
+    {
+      "query": "heat pump vs furnace colorado",
+      "impressions": 156,
+      "clicks": 9,
+      "ctr": 0.057999999999999996,
+      "position": 12.8
+    },
+    {
+      "query": "hvac company near me wheat ridge",
+      "impressions": 112,
+      "clicks": 8,
+      "ctr": 0.071,
+      "position": 7.4
+    },
+    {
+      "query": "golden co ac repair",
+      "impressions": 98,
+      "clicks": 6,
+      "ctr": 0.061,
+      "position": 9.8
+    },
+    {
+      "query": "thornton furnace installation",
+      "impressions": 87,
+      "clicks": 5,
+      "ctr": 0.057,
+      "position": 10.5
+    }
+  ],
+  "totals": {
+    "impressions": 6677,
+    "clicks": 490,
+    "ctr": 0.0734,
+    "avgPosition": 6.49
+  },
+  "conversions": {
+    "CALL_CLICK": 87,
+    "FORM_SUBMIT": 61,
+    "weightedTotal": 129.7
+  },
+  "topConversionPages": [
+    {
+      "url": "/services/furnace-repair",
+      "calls": 18,
+      "forms": 4,
+      "weightedValue": 20.8
+    },
+    {
+      "url": "/services/ac-repair",
+      "calls": 14,
+      "forms": 3,
+      "weightedValue": 16.1
+    },
+    {
+      "url": "/service-areas/denver",
+      "calls": 11,
+      "forms": 6,
+      "weightedValue": 15.2
+    },
+    {
+      "url": "/services/heat-pump-installation",
+      "calls": 6,
+      "forms": 12,
+      "weightedValue": 14.399999999999999
+    },
+    {
+      "url": "/",
+      "calls": 8,
+      "forms": 5,
+      "weightedValue": 11.5
+    },
+    {
+      "url": "/services/furnace-installation",
+      "calls": 5,
+      "forms": 9,
+      "weightedValue": 11.3
+    },
+    {
+      "url": "/contact",
+      "calls": 7,
+      "forms": 6,
+      "weightedValue": 11.2
+    },
+    {
+      "url": "/services/ac-installation",
+      "calls": 4,
+      "forms": 8,
+      "weightedValue": 9.6
+    },
+    {
+      "url": "/service-areas/wheat-ridge",
+      "calls": 5,
+      "forms": 3,
+      "weightedValue": 7.1
+    },
+    {
+      "url": "/service-areas/arvada",
+      "calls": 4,
+      "forms": 2,
+      "weightedValue": 5.4
+    },
+    {
+      "url": "/service-areas/lakewood",
+      "calls": 3,
+      "forms": 2,
+      "weightedValue": 4.4
+    },
+    {
+      "url": "/service-areas/golden",
+      "calls": 2,
+      "forms": 1,
+      "weightedValue": 2.7
+    }
+  ]
+}

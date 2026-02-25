@@ -1,0 +1,25 @@
+Page path,Event name,Event count
+/services/furnace-repair,click_to_call,18
+/services/furnace-repair,form_submit,4
+/services/ac-repair,click_to_call,14
+/services/ac-repair,form_submit,3
+/services/heat-pump-installation,click_to_call,6
+/services/heat-pump-installation,form_submit,12
+/services/furnace-installation,click_to_call,5
+/services/furnace-installation,form_submit,9
+/services/ac-installation,click_to_call,4
+/services/ac-installation,form_submit,8
+/service-areas/denver,click_to_call,11
+/service-areas/denver,form_submit,6
+/service-areas/wheat-ridge,click_to_call,5
+/service-areas/wheat-ridge,form_submit,3
+/service-areas/arvada,click_to_call,4
+/service-areas/arvada,form_submit,2
+/service-areas/lakewood,click_to_call,3
+/service-areas/lakewood,form_submit,2
+/service-areas/golden,click_to_call,2
+/service-areas/golden,form_submit,1
+/,click_to_call,8
+/,form_submit,5
+/contact,click_to_call,7
+/contact,form_submit,6
