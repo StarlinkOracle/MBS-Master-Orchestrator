@@ -1,9 +1,0 @@
-{
-  "mode": "CONSERVATIVE",
-  "scaleThresholdMultiplier": 0.8,
-  "pullbackThresholdMultiplier": 1.0,
-  "travelDistanceLimitMiles": 35,
-  "boulderDistanceLimitMiles": 45,
-  "tier1ExpansionThreshold": 0.8,
-  "wasteSpendThreshold": 0.25
-}
